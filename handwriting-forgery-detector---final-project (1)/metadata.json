@@ -1,0 +1,8 @@
+
+{
+  "name": "Handwriting Forgery Detector - Final Project",
+  "description": "A student project designed to compare handwriting samples and detect possible forgeries using pattern recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
